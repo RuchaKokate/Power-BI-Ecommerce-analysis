@@ -1,4 +1,4 @@
-# Project: Ecommerce Analysis 
+# Project: E-commerce Analysis 
 
 ## Tool Used: Power BI
 
